@@ -1,0 +1,39 @@
+# section information
+section:
+  name: Skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Figma
+  icon: "images/skills/figma.png"
+  summary: " To create websites, apps, or smaller user interface components that can be integrated into other projects."
+  url: https://Figma.com/
+
+- name: Illustrator
+  icon: "images/skills/illustrator.png"
+  summary: "To create logos, icons, drawings, typography, and complex illustrations for any medium."
+  url: "https://illustrator.com/"
+
+- name: Adobe XD
+  icon: "images/skills/xd.png"
+  summary: "Created wireframes, prototypes, and screen designs for digital products such as websites and mobile apps."
+
+- name: Photoshop
+  icon: "images/skills/Ps.png"
+  summary: " Created UI elements, web graphics, wireframes, and functional mockups."
+  url: "https://www.Photoshop.com/"
+
+- name: Git
+  icon: "images/skills/git.png"
+  summary: "Experienced with git-based development. Mostly, use Github."
+  url: "https://git-scm.com/"
+
+- name: React JS
+  icon: "images/skills/React.png"
+  summary: "Designing and implementing user-facing features for websites and applications using React.js."
