@@ -11,13 +11,13 @@ section:
 achievements:
 - title: Style studio
   image: images/achievements/presenter.jpg
-  # summary: Best presenter in the 2020 XYZ conference.
+  summary: Best presenter in the 2020 XYZ conference.
 - title: Consulatncy
   image: images/achievements/sport.jpg
-  # summary: Champion in cycling inter-city cycling championship 2020.
+  summary: Champion in cycling inter-city cycling championship 2020.
 - title: Some works
   image: images/achievements/graduation-cap.jpg
-  # summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from XYZ University.
-- title: Some works
+  summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from XYZ University.
+- title: Work
   image: images/achievements/woman-winner.jpg
-  # summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus architecto minus facere vero?
+  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus architecto minus facere vero?
