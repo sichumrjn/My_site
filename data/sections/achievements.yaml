@@ -8,7 +8,7 @@ section:
   # hideTitle: true
 
 # Your achievements achievements
-Projects:
+achievements:
 - title: Style studio
   image: images/achievements/presenter.jpg
   summary: A exommerce site for women's clothing.
