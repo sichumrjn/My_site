@@ -15,6 +15,7 @@ achievements:
 - title: Consulting Agency
   image: images/achievements/consultancy.png
   summary: A user interface for consultancy.
+  
 - title: Graduation
   image: images/achievements/graduation-cap.jpg
   summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from XYZ University.
