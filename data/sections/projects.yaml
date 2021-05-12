@@ -21,7 +21,7 @@ buttons:
 # # your projects
 projects:
 - name: Style_Studio
-  logo: images/projects/style studio.png
+  logo: images/projects/stylestudio.png
   role: Contributor
   timeline: "March 2018 - Present"
   repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
