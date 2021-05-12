@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Projects
+  name: Achievements
   enable: true
   weight: 6
   showOnNavbar: true
@@ -9,10 +9,10 @@ section:
 
 # Your achievements achievements
 achievements:
-# - title: Style Studio
-#   image: images/achievements/stylestudio.png
-#   summary: Best presenter in the 2020 XYZ conference.
-# - title: Champion
+- title: Best Presenter
+  image: images/achievements/presenter.jpg
+  summary: Best presenter in the 2020 XYZ conference.
+- title: Champion
   image: images/achievements/sport.jpg
   summary: Champion in cycling inter-city cycling championship 2020.
 - title: Graduation
