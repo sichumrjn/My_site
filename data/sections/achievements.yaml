@@ -10,7 +10,7 @@ section:
 # Your achievements achievements
 achievements:
 - title: Style_Studio
-  image: images/projects/stylestudio.png
+  image: images/projects/stylestudio.pnh
   summary: An ecommerse site for women's clothing.
 - title: Consulting Agency
   image: images/achievements/consultancy.png
