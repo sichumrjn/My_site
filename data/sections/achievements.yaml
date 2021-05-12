@@ -9,12 +9,12 @@ section:
 
 # Your achievements achievements
 achievements:
-# - title: Best Presenter
-  -image: images/projects/stylestudio.png
+- title: Style_Studio
+  image: images/projects/stylestudio.png
   summary: An ecommerse site for women's clothing.
-# - title: Champion
-  -image: images/achievements/sport.jpg
-  summary: Champion in cycling inter-city cycling championship 2020.
+- title: Consulting Agency
+  image: images/achievements/consultancy.png
+  summary: A user interface for consultancy.
 - title: Graduation
   image: images/achievements/graduation-cap.jpg
   summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from XYZ University.
