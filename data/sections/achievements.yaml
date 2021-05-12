@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Achievements
+  name: Projects
   enable: true
   weight: 6
   showOnNavbar: true
